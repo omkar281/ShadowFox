@@ -46,9 +46,9 @@ This repository contains all my completed tasks as a Java Developer Intern at **
 
 ### 🔗 Let's Connect
 
-- 👨‍💼 **LinkedIn**: [Rushikesh Karad]((https://www.linkedin.com/in/rushikeshkarad2/))
-- 📧 **Email**: rushikarad1443@gmail.com
-- 💻 **GitHub**: [@krushikesh23cs](https://github.com/krushikesh23cs)
+- 👨‍💼 **LinkedIn**: [Omkar Dhanavade]((https://www.linkedin.com/in/omkar-dhanavade-4ba7722b5/))
+- 📧 **Email**: omkardhanavade2005@gmail.com
+- 💻 **GitHub**: [@krushikesh23cs](https://github.com/omkar281)
 
 ---
 
