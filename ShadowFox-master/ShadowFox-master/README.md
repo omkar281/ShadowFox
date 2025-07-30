@@ -48,7 +48,7 @@ This repository contains all my completed tasks as a Java Developer Intern at **
 
 - 👨‍💼 **LinkedIn**: [Omkar Dhanavade]((https://www.linkedin.com/in/omkar-dhanavade-4ba7722b5/))
 - 📧 **Email**: omkardhanavade2005@gmail.com
-- 💻 **GitHub**: [@krushikesh23cs](https://github.com/omkar281)
+- 💻 **GitHub**: [@omkar281](https://github.com/omkar281)
 
 ---
 
